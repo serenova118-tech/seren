@@ -1,4 +1,5 @@
-Heyyy, I'm Seren! 
+## Heyyy, I'm Seren! 
+
 Too curious to ignore a problem, too ambitious to leave it unsolved.
 
 Exploring the digital world, one questionable curiosity at a time.
