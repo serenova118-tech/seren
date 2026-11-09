@@ -26,8 +26,7 @@ The mission? Making digital privacy less complicated, one security check at a ti
 Working toward becoming a cybersecurity professional who builds smart solutions and makes the digital world safer.
 
 *Future cybersecurity expert. Current bug creator. Full-time "but what if?" enthusiast.* 🔐
-
----
+ 
 ### 💻 Tech & Tools
 
 **Languages:** Python · C
@@ -36,5 +35,4 @@ Working toward becoming a cybersecurity professional who builds smart solutions 
 
 **Currently Exploring:** AI · Digital Privacy · Security Analysis
 
----
 *Turning random thoughts into projects and curiosity into a career. (And bugs into unexpected learning experiences.)* 
